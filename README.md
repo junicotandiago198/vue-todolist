@@ -1,4 +1,4 @@
-# vuegogo
+# Simple - Vue - TodoList
 
 ## Project setup
 ```
